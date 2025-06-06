@@ -49,5 +49,7 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/b261f9dd-4f72-42cd-b4d7-d6e50f3665b6)
 
+![Image](https://github.com/user-attachments/assets/3ca9638b-1039-441f-aeed-d65c651ac7a5)
+
 
 A professional PDF document named employee_report.pdf was generated. It contains a clean, structured table representing the contents of the original CSV file. The file is saved in the same project directory and can be opened or shared as needed.
